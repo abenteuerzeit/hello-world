@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../../simple-calculator-python-abenteuerzeit"
+		},
+		{
+			"path": "../../project-rewrite-python-abenteuerzeit"
 		}
 	],
 	"settings": {}
