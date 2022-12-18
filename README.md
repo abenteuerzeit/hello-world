@@ -1,6 +1,6 @@
 # Hello World Python Project
 
-This project was created as part of the Fullstack 12-month weekend course at Codecool (https://codecool.com/en/).
+This project was created as part of the Fullstack 12-month weekend course at Codecool (<https://codecool.com/en/>).
 
 This project is a series of exercises that demonstrate different aspects of the Python programming language, including printing to the console, defining and calling functions, using return values, getting user input, calling functions with arguments, and separating concerns.
 
@@ -20,8 +20,8 @@ To run the project, navigate to the directory containing the project files and r
 
 ## Copy code
 
-python3 <filename>.py
-Replace <filename> with the name of the file you want to run (e.g., helloworld.py, hellofunction.py, etc.).
+python3 < filename >.py
+Replace < filename > with the name of the file you want to run (e.g., helloworld.py, hellofunction.py, etc.).
 
 ## Requirements
 
