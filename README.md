@@ -17,11 +17,10 @@ The project includes the following files:
 ## Running the Project
 
 To run the project, navigate to the directory containing the project files and run the following command:
-
-## Copy code
-
-python3 < filename >.py
-Replace < filename > with the name of the file you want to run (e.g., helloworld.py, hellofunction.py, etc.).
+```console
+python3 <filename>.py
+```
+Replace <filename> with the name of the file you want to run (e.g., helloworld.py, hellofunction.py, etc.).
 
 ## Requirements
 
